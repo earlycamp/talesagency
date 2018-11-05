@@ -1,0 +1,13 @@
+body{
+ background-image: url(img/bgrn.jpg);
+}
+.container{
+	background-color: snow;
+}
+.Title{
+	background-color: whitesmoke;
+	color: darkgray;
+}
+.col-md-10{
+	background-image: url(img/bgrn2.jpg);
+}
